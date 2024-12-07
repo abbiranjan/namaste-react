@@ -36,7 +36,7 @@ practice due to 2 main reason
 * To create prod level code using parcel - npx parcel build index.html
   But it will give error, if you have not removed {main: App.js} from package.json
 
-* For dev-build - npx parcel index.html
+* For dev-build - <code>npx parcel index.html</code>
 * browserslist in package.json will tell that app may run in maximum of browsers but it will definately run in mentioned value (last 2 Chrome version) of browsersList 
 
 * You can verify or find value of browserslist from (https://browserslist.dev/)
